@@ -1,3 +1,10 @@
 cuento blancanieves
 estos son nuevos cambios
+<<<<<<< HEAD
 tercer nuevos cambios
+=======
+tercer nuevos cambios
+!!!
+%%%
+GGGGG
+>>>>>>> e199d09d6a12aa1a44f86ae44b27fd8db976d327
